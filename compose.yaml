@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: 'postgres:latest'
+    environment:
+      - 'POSTGRES_DB=omie'
+      - 'POSTGRES_PASSWORD=root'
+      - 'POSTGRES_USER=omie'
+    ports:
+      - '5432'
