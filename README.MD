@@ -1,4 +1,4 @@
-<img src="https://imgs.search.brave.com/TwMR8N32WW5eEu8rHgzsTpl5hjPU3PBEa6hP9M_Iv3E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMucGx1Z2EuY28v/YXBwcy9pY29ucy9v/bWllL29taWUtaWNv/bi5zdmc" alt="Omie Logo" width="200"/>
+<img src="https://imgs.search.brave.com/TwMR8N32WW5eEu8rHgzsTpl5hjPU3PBEa6hP9M_Iv3E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMucGx1Z2EuY28v/YXBwcy9pY29ucy9v/bWllL29taWUtaWNv/bi5zdmc" alt="Omie Logo" width="200" height="200"/>
 
 # 📊 API do Omie ERP
 A API do Omie permite que desenvolvedores integrem e automatizem processos de gestão empresarial, facilitando operações como emissão de notas fiscais, controle de estoque e gestão financeira. Com uma arquitetura robusta e tecnologias modernas, esta API oferece uma experiência de usuário eficiente e confiável!
